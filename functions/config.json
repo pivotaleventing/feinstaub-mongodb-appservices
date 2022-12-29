@@ -1,0 +1,11 @@
+[
+    {
+        "name": "handleSensorDataIngress",
+        "private": false,
+        "run_as_user_id": "636e1a8007a72b6fd55c1689"
+    },
+    {
+        "name": "resetPassword",
+        "private": true
+    }
+]
