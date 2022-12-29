@@ -1,0 +1,23 @@
+{
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "phenomenon": {
+            "bsonType": "string"
+        },
+        "sensor": {
+            "bsonType": "string"
+        },
+        "software_version": {
+            "bsonType": "string"
+        },
+        "timestamp": {
+            "bsonType": "long"
+        },
+        "value": {
+            "bsonType": "string"
+        }
+    },
+    "title": "13133500"
+}
