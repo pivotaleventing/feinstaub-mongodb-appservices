@@ -22,7 +22,7 @@ exports = function(request){
     });
     
     collection.insertMany(results);
-    return "OK";
+    return context.functions.execute("OK");
   }
   
 };
